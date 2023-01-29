@@ -142,16 +142,16 @@ for i in range(len(links)):
 # Creating the dataframe 
 df = pd.DataFrame(list(zip(job_titles,company_names,
                     company_locations,work_methods,
-                    post_dates,work_times)),
+                    post_dates,work_times,job_desc)),
                     columns =['job_title', 'company_name',
                            'company_location','work_method',
-                           'post_date','work_time'])
+                           'post_date','work_time','job_desc'])
 
 # Storing the data to csv file
 df.to_csv('job_offers.csv', index=False)
 
 # Output job descriptions to txt file
-with open('job_descriptions.txt', 'w',encoding="utf-8") as f:
-    for line in job_desc:
-        f.write(line)
-        f.write('\n')
+# with open('job_descriptions.txt', 'w',encoding="utf-8") as f:
+#     for line in job_desc:
+#         f.write(line)
+#         f.write('\n')
