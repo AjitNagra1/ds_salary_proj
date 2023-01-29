@@ -67,7 +67,7 @@ links = []
 # Navigate 5 pages
 print('Links are being collected now.')
 try: 
-    for page in range(2,6):
+    for page in range(2):
         time.sleep(1)
         jobs_block = driver.find_element(By.CLASS_NAME,'jobs-search-results-list')
         jobs_list= jobs_block.find_elements(By.CSS_SELECTOR,'.jobs-search-results__list-item')
@@ -142,16 +142,16 @@ for i in range(len(links)):
 # Creating the dataframe 
 df = pd.DataFrame(list(zip(job_titles,company_names,
                     company_locations,work_methods,
-                    post_dates,work_times)),
+                    post_dates,work_times,job_desc)),
                     columns =['job_title', 'company_name',
                            'company_location','work_method',
-                           'post_date','work_time'])
+                           'post_date','work_time','job_desc'])
 
 # Storing the data to csv file
 df.to_csv('job_offers.csv', index=False)
 
 # Output job descriptions to txt file
-with open('job_descriptions.txt', 'w',encoding="utf-8") as f:
-    for line in job_desc:
-        f.write(line)
-        f.write('\n')
+# with open('job_descriptions.txt', 'w',encoding="utf-8") as f:
+#     for line in job_desc:
+#         f.write(line)
+#         f.write('\n')
