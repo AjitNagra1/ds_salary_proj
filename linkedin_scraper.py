@@ -1,7 +1,8 @@
 # import libraries (selenium and time)
 import time
-import selenium
 import pandas as pd
+# ----------------- #
+import selenium
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
