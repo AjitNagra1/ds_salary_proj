@@ -63,7 +63,7 @@ jobs_list= jobs_block.find_elements(By.CSS_SELECTOR, "jobs-search-results__list-
 
 # Get all links for these offers
 links = []
-# Navigate 13 pages
+# Navigate 5 pages
 print('Links are being collected now.')
 try: 
     for page in range(2,6):
