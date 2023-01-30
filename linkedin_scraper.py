@@ -50,7 +50,7 @@ jobs=driver.find_element(By.XPATH,"""//*[@id="global-nav"]/div/nav/ul/li[3]/a"""
 time.sleep(3)
 
 # Go to search results directly via link
-driver.get("https://www.linkedin.com/jobs/search/?currentJobId=3436497337&f_E=2%2C3%2C4&f_JT=F%2CC&f_WT=2%2C3&geoId=101165590&keywords=energy%20analyst&location=United%20Kingdom&refresh=true")
+driver.get("https://www.linkedin.com/jobs/search/?currentJobId=3438432896&f_E=2%2C3%2C4&f_JT=F&f_WT=2%2C3&geoId=101165590&keywords=energy%20analyst&location=United%20Kingdom&refresh=true")
 time.sleep(1)
 
 # access the job list on the left hand side of the page
@@ -67,7 +67,7 @@ links = []
 # Navigate 5 pages
 print('Links are being collected now.')
 try: 
-    for page in range(2):
+    for page in range(2,6):
         time.sleep(1)
         jobs_block = driver.find_element(By.CLASS_NAME,'jobs-search-results-list')
         jobs_list= jobs_block.find_elements(By.CSS_SELECTOR,'.jobs-search-results__list-item')
