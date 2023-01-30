@@ -1,5 +1,5 @@
-job_title,company_name,company_location,work_method,post_date,work_time,job_desc
-Solar Consultant,Everoze,"Bristol, England, United Kingdom",Hybrid,1 week ago,Full-time · Mid-Senior level,"About the job
+job_title,company_name,company_location,work_method,job_desc,machine_learning,coding,excel,salary_range
+Solar Consultant,Everoze,"Bristol, England, United Kingdom",Hybrid,"About the job
 Everoze is different, we are employee owned. We’re more than just a technical and commercial consultancy, specialising in renewables, storage, green hydrogen and wider energy flexibility. We live our values. We’re passionate about accelerating the transition to a decarbonised energy system. We have no bosses or formal hierarchy. We are free to pursue opportunities that deliver our strategy. We take ownership of our own development and support one another along the way. Our pay is transparent and set by our peers. We, the employees, own the company and we share profits equally.
 
 We’re OK with being different. Everoze isn’t for everyone. But it might just be for you…
@@ -62,8 +62,8 @@ Experience in energy storage, flexibility or other renewable technologies;
 Experience in owners engineering, construction monitoring or asset management.
 
 How to apply
-Everoze embraces diversity and equal opportunity. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills. For this reason we are only accepting applications for this position made through the BeApplied platform which is designed to avoid any unconscious bias. You will be asked to answer 5 short questions designed to give you the opportunity to demonstrate the core skills we are looking for. These will be reviewed anonymously, before reviewing your CV, your details or even your name, and the highest scoring applicants will be invited for interview."
-Site Manager - Ignite Energy,Inspired PLC,United Kingdom,Remote,1 week ago,Full-time · Associate,"About the job
+Everoze embraces diversity and equal opportunity. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills. For this reason we are only accepting applications for this position made through the BeApplied platform which is designed to avoid any unconscious bias. You will be asked to answer 5 short questions designed to give you the opportunity to demonstrate the core skills we are looking for. These will be reviewed anonymously, before reviewing your CV, your details or even your name, and the highest scoring applicants will be invited for interview.",0,0,1,[]
+Site Manager - Ignite Energy,Inspired PLC,United Kingdom,Remote,"About the job
 Ignite Energy are part of the Inspired PLC family. We implement energy efficiency and management projects for large businesses in hundreds of client sites in a typical year, using a combination of employed and sub-contracted workforce. Typically, several high value projects run in parallel with fast turnover and regular milestones. Customized delivery and unrivalled service and support tailored to each business is crucial to our business model.
 
 We are looking for a Site Manager to join our successful Ignite team. This is a Site Based role.
@@ -97,8 +97,8 @@ Prospective candidates will also be expected to demonstrate a methodical and res
 Candidates will go through a thorough on-boarding process through which they will receive approval as an Ignite Energy approved Site Manager.
 
 
-If you are interested in the role and would like to be considered, please apply now and a member of our In House Recruitment Team will be in touch. Good Luck!"
-Principal Urban Energy Consultant - (Engineering),Arup,"London, England, United Kingdom",Hybrid,1 hour ago,Full-time · Associate,"About the job
+If you are interested in the role and would like to be considered, please apply now and a member of our In House Recruitment Team will be in touch. Good Luck!",0,0,0,[]
+Principal Urban Energy Consultant - (Engineering),Arup,"London, England, United Kingdom",Hybrid,"About the job
 Why Arup?
 
 Why Arup? Are you passionate about building a more sustainable future? At Arup we work to find solutions for some of the world’s most complex problems – providing expertise across all areas of the built environment from strategic approach and planning to design and engineering.
@@ -154,8 +154,8 @@ To understand what to expect next, please visit our UK Application Process page.
 
 Stay safe online - Arup will never ask for payment or your bank details as part of our recruitment process.
 
-REF:EN"
-Senior Energy and Carbon Consultant,Expedition Engineering Ltd,"London, England, United Kingdom",Hybrid,2 days ago,Full-time,"About the job
+REF:EN",0,0,1,[]
+Senior Energy and Carbon Consultant,Expedition Engineering Ltd,"London, England, United Kingdom",Hybrid,"About the job
 What makes us different
 The Useful Simple Trust (UST) is a highly renowned group of professional design and consultancy practices, driving change through our four brands: Expedition Engineering, Useful Projects, Useful Studio and Thomas Matthews.
 
@@ -210,8 +210,8 @@ The package comprises:
 • Workplace Health Assured & WeCare 24/7 EAP access
 • Life Assurance
 • Company pension scheme
-• Cycle to work scheme"
-Energy Analyst,National Grid,"London, England, United Kingdom",Hybrid,4 days ago,"£48,000/yr - £60,000/yr · Full-time · Mid-Senior level","About the job
+• Cycle to work scheme",0,0,1,[]
+Energy Analyst,National Grid,"London, England, United Kingdom",Hybrid,"About the job
 The energy system continues to change rapidly and fundamentally on the path to Net Zero by 2050. National Grid are at the very heart of these changes, which pose strategic questions for us as a business, and for the wider Energy sector. Group Strategy leads on answering high-level strategic questions for National Grid and working with external stakeholders to collectively answer the broader questions for the whole industry.
 
 
@@ -291,8 +291,8 @@ Interviews: w/c 13th or 20th February 2023 onwards
 
 For more information please reach out to our Talent Acquisition Partner directly: Philippa.templeton@nationalgrid.com https://www.linkedin.com/in/ptempleton/
 
-At National Grid, we work towards the highest standards in everything we do, including how we support, value and develop our people. Our aim is to encourage and support employees to thrive and be the best they can be. We celebrate the difference people can bring into our organisation, and welcome and encourage applicants with diverse experiences and backgrounds, and offer flexible and tailored support, at home and in the office."
-Graduate Energy Consultant (start Fall 2023),Sirio,"London, England, United Kingdom",Hybrid,5 days ago,"£30,000/yr · Full-time","About the job
+At National Grid, we work towards the highest standards in everything we do, including how we support, value and develop our people. Our aim is to encourage and support employees to thrive and be the best they can be. We celebrate the difference people can bring into our organisation, and welcome and encourage applicants with diverse experiences and backgrounds, and offer flexible and tailored support, at home and in the office.",1,0,1,"[48000, 60000]"
+Graduate Energy Consultant (start Fall 2023),Sirio,"London, England, United Kingdom",Hybrid,"About the job
 Introduction
 Sirio, a boutique consulting firm, is looking for a driven and resourceful energy consultant to join its rapidly growing team. The consultant will work alongside members of the team to support high-profile clients in the energy, utilities and public sectors. The consultant will also play a key role in the growth of Sirio, from developing internal processes, producing intellectual property and supporting business development activities.
 
@@ -329,8 +329,8 @@ Why do you believe you would be a good fit?
 Application deadline 24/02/2023.
 Interviews throughout March on a rolling basis.
 Start date of August - October 2023, following degree completion.
-Technology and work-from-home equipment will be provided by the firm."
-Energy Manager,WestRock Company,United Kingdom,Remote,2 weeks ago,Full-time · Mid-Senior level,"About the job
+Technology and work-from-home equipment will be provided by the firm.",0,0,0,[30000]
+Energy Manager,WestRock Company,United Kingdom,Remote,"About the job
 The opportunity: in this role, you will provide a single point of accountability for sourcing performance in relation to energy and requires a high degree of product and market focus. This means an ability to drive improvement through demand and specification-based initiatives as well as through the more traditional purchasing-based activity using external partners where appropriate.
 
 How you will impact WestRock:
@@ -355,8 +355,8 @@ Corporate culture based on integrity, respect, accountability and excellence
 Comprehensive training with numerous learning and development opportunities
 A career with a global packaging company where sustainability, safety and inclusion are business drivers and foundational elements of the daily work
 
-WestRock is an Equal Opportunity Employer. We strive to create and maintain a diverse workforce where everyone feels valued, respected, and included. WestRock does not discriminate on the basis of race, color, religion, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other basis protected by federal, state or local law"
-Natural Gas Analyst,Jane Street,"London, England, United Kingdom",Hybrid,6 days ago,Full-time · Associate,"About the job
+WestRock is an Equal Opportunity Employer. We strive to create and maintain a diverse workforce where everyone feels valued, respected, and included. WestRock does not discriminate on the basis of race, color, religion, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other basis protected by federal, state or local law",0,0,1,[]
+Natural Gas Analyst,Jane Street,"London, England, United Kingdom",Hybrid,"About the job
 About the Position
 We're looking for an experienced Natural Gas Analyst to help our team research new strategies that incorporate fundamental views into our European natural gas trading. Our team has an open mandate to think about the existing successful trading that we do, and find new ways to marry fundamental analytics with Jane Street’s core quantitative trading strategy.
 
@@ -368,8 +368,8 @@ Strong analytical capabilities
 Knowledge of oil or gas physical/financial markets
 Proficiency in statistics
 Coding skills are a plus
-Fluency in English required"
-Energy Market Analyst / Modeller (Plexos),Turner Lovell,United Kingdom,Remote,1 week ago,"€70,000/yr - €90,000/yr · Full-time · Mid-Senior level","About the job
+Fluency in English required",0,1,0,[]
+Energy Market Analyst / Modeller (Plexos),Turner Lovell,United Kingdom,Remote,"About the job
 Energy Market Analyst
 Location: Remote working. From anywhere in Europe.
 Offshore Grid / Wind / Renewable Energy
@@ -404,8 +404,8 @@ Fluency in English.
 
 This is an exciting role that will allow you to be at the forefront of offshore renewable energy projects across Europe and the USA from the perspective of the developer. You will work for a dynamic leader, have a clear and fast career development path and international travel opportunities.
 
-If this sounds like your next role and challenge, please apply and we will follow up quickly to discuss your experience."
-Energy Consultant,JSM Associates,"London, England, United Kingdom",Hybrid,4 days ago,"£40,000/yr - £50,000/yr · Full-time · Mid-Senior level","About the job
+If this sounds like your next role and challenge, please apply and we will follow up quickly to discuss your experience.",0,0,1,[]
+Energy Consultant,JSM Associates,"London, England, United Kingdom",Hybrid,"About the job
 Senior Energy Consultant/Energy Manager
 
 Exciting opportunity for an experienced Building Service Engineer/Energy Manager to join this award-winning, Boutique Sustainability Consultancy with exciting plans for further growth. Greengage are seeking an experienced Senior Energy Consultant/Energy Manager to join their growing Net Zero Carbon business.
@@ -455,8 +455,8 @@ About Greengage
 
 Now in their 16th year, Greengage has a team of over 40 full time staff. The business has enjoyed continued success with significant year-on-year growth. It has developed an enviable reputation with a range of prestigious clients across various sectors. Greengage provide staff with a vibrant and dynamic working environment, including significant training and career progression, alongside flexible working arrangements.
 
-Even if you are cautiously looking, I would highly recommend a discreet conversation to find out more about the firm and the role."
-Energy Consultant,Torque Consulting,"Manchester Area, United Kingdom",Hybrid,1 week ago,"£20,000/yr - £45,000/yr · Full-time · Mid-Senior level","About the job
+Even if you are cautiously looking, I would highly recommend a discreet conversation to find out more about the firm and the role.",0,0,1,"[40000, 50000]"
+Energy Consultant,Torque Consulting,"Manchester Area, United Kingdom",Hybrid,"About the job
 Energy and Sustainability Consultant - Manchester Area
 
 Torque Consulting is currently seeking an Energy and Sustainability Consultant, for a market leading business who are expanding rapidly.
@@ -487,8 +487,8 @@ Regular training and career development
 Working from home and flexible working hours
 Company car allowance of 5k
 
-If you are suitable then please apply below and we can arrange a call to discuss.Torque Consulting is a leading supplier of recruitment and headhunting services into the Engineering, Aerospace, Automotive, Defence, Oil & Gas, Technology and Life Sciences. We pride ourselves on providing a service that leaves the personal touch while ensuring efficiency. If the position is not entirely suited to your professional experience, location, or financial expectations, please get in touch with a member of our team to find out about other opportunities. Both Torque Consulting and our client are equal opportunity employers and value diversity. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status."
-Analyst Consultant - Energy & Carbon Management,Ricardo plc,"England, United Kingdom",Hybrid,3 weeks ago,Full-time · Entry level,"About the job
+If you are suitable then please apply below and we can arrange a call to discuss.Torque Consulting is a leading supplier of recruitment and headhunting services into the Engineering, Aerospace, Automotive, Defence, Oil & Gas, Technology and Life Sciences. We pride ourselves on providing a service that leaves the personal touch while ensuring efficiency. If the position is not entirely suited to your professional experience, location, or financial expectations, please get in touch with a member of our team to find out about other opportunities. Both Torque Consulting and our client are equal opportunity employers and value diversity. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",0,0,1,"[20000, 45000]"
+Analyst Consultant - Energy & Carbon Management,Ricardo plc,"England, United Kingdom",Hybrid,"About the job
 Role: Graduate/Analyst Energy & Carbon Management Consultant
 Location: Flexible but preferred Harwell, Manchester, London, Bristol, Glasgow
 Salary range: £21,000 - £31,000
@@ -539,8 +539,8 @@ We are an Equal Opportunity Employer, we believe in each person's potential, and
 Benefits
 Our core benefits include 25 days' annual leave, plus 8 flexible bank holidays, a competitive company pension scheme, life assurance and professional subscriptions reimbursement. We also offer a wide range of flexible benefits to suit your lifestyle.
 
-Once you have submitted your application a member of our Recruitment Team will be in touch. Please be aware that the timing can vary dependent on the volume of applications that we receive for each role and in some cases, we may start to review applications prior to the closing date."
-Energy Consultant,Mott MacDonald,"South Croydon, England, United Kingdom",Hybrid,2 weeks ago,Full-time · Mid-Senior level,"About the job
+Once you have submitted your application a member of our Recruitment Team will be in touch. Please be aware that the timing can vary dependent on the volume of applications that we receive for each role and in some cases, we may start to review applications prior to the closing date.",0,0,1,[]
+Energy Consultant,Mott MacDonald,"South Croydon, England, United Kingdom",Hybrid,"About the job
 Contract Type
 
 Permanent
@@ -610,8 +610,8 @@ Energy
 Europe and Central Asia
 
 
-Energy"
-Energy Consultant,Mott MacDonald,"Hinckley, England, United Kingdom",Hybrid,2 weeks ago,Full-time · Mid-Senior level,"About the job
+Energy",0,0,1,[]
+Energy Consultant,Mott MacDonald,"Hinckley, England, United Kingdom",Hybrid,"About the job
 Contract Type
 
 Permanent
@@ -730,10 +730,10 @@ Europe and Central Asia
 
 Website Sector
 
-Energy"
-(Senior) Energy Modeller,Aurora Energy Research,"Oxfordshire, England, United Kingdom",Hybrid,6 days ago,Full-time · Mid-Senior level,About the job
-Group Energy Manager (Renewables & Net Zero),Tesco,"Welwyn Garden City, England, United Kingdom",Hybrid,6 days ago,Full-time · Mid-Senior level,About the job
-Energy Transition Consultants- Oil & Gas Industry,Baringa,"London Area, United Kingdom",Hybrid,1 week ago,Full-time · Mid-Senior level,"About the job
+Energy",0,0,1,[]
+(Senior) Energy Modeller,Aurora Energy Research,"Oxfordshire, England, United Kingdom",Hybrid,About the job,0,0,0,[]
+Group Energy Manager (Renewables & Net Zero),Tesco,"Welwyn Garden City, England, United Kingdom",Hybrid,About the job,0,0,0,[]
+Energy Transition Consultants- Oil & Gas Industry,Baringa,"London Area, United Kingdom",Hybrid,"About the job
 Energy Transition Consultant - Oil & Gas Industry
 
 Overview
@@ -797,8 +797,8 @@ We understand everyone’s working situation is different and we are increasingl
 Lastly, we recognise the importance of work-life balance and we know that the ‘ideal’ balance will vary from person to person and will change at different stages of our working lives. If you require flexible working, please talk to one of our Recruiters about the flexibility you may need.
 Diversity & Inclusion Baringa believe that diversity is paramount to driving creativity, innovation, and value for our clients and for our people, and creating an environment where everyone feels a sense of belonging is central to our culture. All applications will receive consideration for employment without regard to race, ethnicity, religion, gender, gender identity or expression, sexual orientation, nationality, disability, age, faith or social background. We are proud to be an Equal Opportunity Employer.
 
-We would like to actively encourage applications from those who identify with less represented and minority groups. We do not filter applications by university background and encourage those who have taken alternative educational and career paths to apply."
-Energy Manager,Balfour Beatty plc,"Manchester, England, United Kingdom",Hybrid,3 days ago,Full-time · Mid-Senior level,"About the job
+We would like to actively encourage applications from those who identify with less represented and minority groups. We do not filter applications by university background and encourage those who have taken alternative educational and career paths to apply.",0,0,1,[]
+Energy Manager,Balfour Beatty plc,"Manchester, England, United Kingdom",Hybrid,"About the job
 About the role
 
 Balfour Beatty has an exciting opportunity for an Energy Manager to join our talented and friendly Asset & Technology Solutions team. This role will see you supporting the implementation of Balfour Beatty's Building New Future's strategy with a specific focus on reducing energy consumption and carbon emissions. You will also provide advice and policy support to strategic business units on energy and sustainability.
@@ -844,8 +844,8 @@ Our work inspires communities and advances society. Our commitment to sustainabi
 Diversity & Inclusion: At Balfour Beatty we are committed to creating a diverse workforce and an inclusive culture where everyone can be themselves and reach their full potential, not only because this is the right thing to do, but because it makes us a better business. To ensure we deliver on this commitment, we have a UK Diversity and Inclusion Action Plan which sets out the wide range of targeted, proactive, measurable steps we are taking to make this a reality. You can read our UK Diversity and Inclusion Action Plan in full at www.balfourbeatty.com/value_everyone
 To help and support us with our desired commitment to create an inclusive culture we are members of WISE, enei, Business Disability Forum and Women into Construction. In 2020, we signed the Audeliss and Involve Open Letter to demonstrate our commitment to taking key long term and sustainable actions on Black Inclusion. Balfour Beatty is also a Gold Award holder in the Ministry of Defence 'Employer Recognition Scheme' and actively encourage applications from Armed Forces personnel, veterans and reservists.
 As a Disability Confident Employer, we are committed to working with people who have disabilities and long-term health conditions to remove barriers for them in obtaining employment. We are also committed to offering applicants with a disability an interview if they meet the minimum requirements for the role.
-Further information on Disability Confident can be found at: https://disabilityconfident.campaign.gov.uk/"
-Management Consultant - Energy & Utilities - Energy Transition (London/Manchester/Glasgow),Capgemini Invent,"London, England, United Kingdom",Hybrid,5 days ago,Full-time · Mid-Senior level,"About the job
+Further information on Disability Confident can be found at: https://disabilityconfident.campaign.gov.uk/",0,0,1,[]
+Management Consultant - Energy & Utilities - Energy Transition (London/Manchester/Glasgow),Capgemini Invent,"London, England, United Kingdom",Hybrid,"About the job
 At Capgemini Invent, we bring to life what’s next for our clients.
 By combining strategy, technology, data science, and creative design expertise with an inventive mindset, we partner with our clients to innovate and transform their business, helping them navigate today, while plotting a course for the future.
 
@@ -916,8 +916,8 @@ Whilst you will have London, Manchester or Glasgow as an office base location, y
 We offer a remuneration package which includes flexible benefits options for you to choose to suit your own personal circumstances and a variable element dependent grade and on company and personal performance.
 
 In order to commence a role with Capgemini UK plc you will be required to provide documentary proof prior to joining the Company that you are entitled to live and work in the UK.
-More information is at available at: https://www.capgemini.com/gb-en/service/invent/"
-Strategy Analyst,Lightsource bp,"London, England, United Kingdom",Hybrid,3 days ago,Full-time · Mid-Senior level,"About the job
+More information is at available at: https://www.capgemini.com/gb-en/service/invent/",0,0,0,[]
+Strategy Analyst,Lightsource bp,"London, England, United Kingdom",Hybrid,"About the job
 Job description:
 
 Lightsource bp specializes in the financing, development and management of solar energy projects. We are a 50:50 joint venture with bp with a mission to help drive the world’s transition to low carbon energy. With solar set to increase tenfold in the next 20 years, we are well-positioned to capitalize on this growth. By being part of the Lightsource bp team, you will ‘be the change’ on the world’s transition to a more sustainable future.
@@ -1002,8 +1002,8 @@ Highly organised, plan ahead and be comfortable delivering complex projects to t
 
 Detail orientated and able to take accountability for the accuracy and quality of models across the board, i.e. including those not operated by self
 
-Thrive in fast moving and growing business – continually challenging how things are done in the interest of improving the systems, processes and the quality of models"
-Senior Consultant Energy & Carbon Management,Ricardo plc,"England, United Kingdom",Hybrid,1 week ago,Full-time · Mid-Senior level,"About the job
+Thrive in fast moving and growing business – continually challenging how things are done in the interest of improving the systems, processes and the quality of models",0,0,1,[]
+Senior Consultant Energy & Carbon Management,Ricardo plc,"England, United Kingdom",Hybrid,"About the job
 Role: Senior Consultant Energy & Carbon Management
 Location: UK Flexible
 Role ID: 2022-1689
@@ -1069,8 +1069,8 @@ Benefits
 
 Our core benefits include 25 days' annual leave, plus 8 flexible bank holidays, a competitive company pension scheme, life assurance and professional subscriptions reimbursement. We also offer a wide range of flexible benefits to suit your lifestyle.
 
-Once you have submitted your application a member of our Recruitment Team will be in touch. Please be aware that the timing can vary dependent on the volume of applications that we receive for each role and in some cases, we may start to review applications prior to the closing date."
-"Associate – Corporate, Energy",Howard Kennedy LLP,"London, England, United Kingdom",Hybrid,1 week ago,Full-time · Associate,"About the job
+Once you have submitted your application a member of our Recruitment Team will be in touch. Please be aware that the timing can vary dependent on the volume of applications that we receive for each role and in some cases, we may start to review applications prior to the closing date.",0,0,1,[]
+"Associate – Corporate, Energy",Howard Kennedy LLP,"London, England, United Kingdom",Hybrid,"About the job
 The role
 
 This is an excellent opportunity for an Associate with proven energy and renewables experience to join the Energy team. Our team regularly represents clients across the entire energy ecosystem, including developers, investors and suppliers, on clean energy transactions within the UK and internationally. The team have advised across all technologies including offshore and onshore wind, solar PV, energy storage, combined heat and power, district heating and cooling, electric vehicles, geothermal, hydro, wave and tidal.
@@ -1107,8 +1107,8 @@ Comfort using your own initiative and taking responsibility where necessary and 
 The willingness to take responsibility for your own workload, working as part of the team to ensure client and business needs are met
 Strong analytical abilities with a keen eye for detail and accuracy
 Good organisational skills, record keeping and file management
-Flexibility in approach"
-Energy Manager,CBRE Global Workplace Solutions (GWS),"London, England, United Kingdom",Hybrid,2 weeks ago,Full-time · Associate,"About the job
+Flexibility in approach",0,0,1,[]
+Energy Manager,CBRE Global Workplace Solutions (GWS),"London, England, United Kingdom",Hybrid,"About the job
 
 
 Job Title: Regional energy lead
@@ -1163,8 +1163,8 @@ Understand the principles behind HVAC, refrigeration and Lighting operation and 
 Extensive working knowledge of BMS and control theory
 Capable of preparing fully costed energy efficiency proposals and reports
 Ability to carry out full energy surveys and feasibility studies of energy technologies
-Knowledge of customer operations, business drivers, financials and specialist sources of information, legislative requirements where necessary."
-Energy Consultant (Built Environment),RPS,"London Area, United Kingdom",Hybrid,1 week ago,Full-time · Mid-Senior level,"About the job
+Knowledge of customer operations, business drivers, financials and specialist sources of information, legislative requirements where necessary.",0,0,0,[]
+Energy Consultant (Built Environment),RPS,"London Area, United Kingdom",Hybrid,"About the job
 RPS has a vacancy for an Energy & Sustainability Consultant to join our London team. RPS is a leading global multi-disciplinary consultancy. We specialise in all areas of the built and natural environment, shaping the future of our environmental, social and economic landscapes. Our award-winning team has developed a focus in Net Zero Carbon delivering tailored services to local councils and private organisations. We also provide a range of assessments (Energy Reports, Overheating Assessments, Daylight Analysis, BREEAM Assessments, Sustainability Statements etc) to a multitude of clients, supplying valuable services to lead design teams and clients through the complexities of the planning process.
 
 Your role
@@ -1201,14 +1201,14 @@ Our approach to Diversity and inclusion Our people live our purpose, deliver our
 
 ‘We are respectful, acknowledge diversity, and recognise the potential and contribution of everyone. We bring out the best in one another, always assuming best intent. People who learn and grow thrive in our business, sharing in our success.’
 
-Recruitment Agencies We have a Preferred Supplier List of trusted partners to assist us when required and do not acknowledge any speculative CVs or unsolicited candidate introductions from agencies not on this list. Please refer to the careers page on our website if you require any further information."
-Energy Consultant,The Green Recruitment Company,"London, England, United Kingdom",Hybrid,2 weeks ago,"£35,000/yr - £50,000/yr · Full-time · Mid-Senior level","About the job
+Recruitment Agencies We have a Preferred Supplier List of trusted partners to assist us when required and do not acknowledge any speculative CVs or unsolicited candidate introductions from agencies not on this list. Please refer to the careers page on our website if you require any further information.",0,0,0,[]
+Energy Consultant,The Green Recruitment Company,"London, England, United Kingdom",Hybrid,"About the job
 Job title: Energy Consultant
 Location: Home-based with national travel
 Salary: £35,000 - £50,000 + KPI linked bonus
 Company Overview:
-Gaining market leader status shortly after their inception 25 years ago, this UK-based energy management firm offer energy efficiency, carbon management and cost reduction solutions to some of the most recognised brands in the country across the Public Sector, commercial buildings and industrial sectors. This firm have provided services to an impressive 5,000 clients, delivering over £600 million of savings. Company growth has now brought the need for an Energy Consultant to join an ambitious in-house team."
-Carbon Capture (CCUS) Advisor (Energy) - UK Wide,WSP in the UK,"England, United Kingdom",Hybrid,1 week ago,Full-time · Mid-Senior level,"About the job
+Gaining market leader status shortly after their inception 25 years ago, this UK-based energy management firm offer energy efficiency, carbon management and cost reduction solutions to some of the most recognised brands in the country across the Public Sector, commercial buildings and industrial sectors. This firm have provided services to an impressive 5,000 clients, delivering over £600 million of savings. Company growth has now brought the need for an Energy Consultant to join an ambitious in-house team.",0,0,0,"[35000, 50000]"
+Carbon Capture (CCUS) Advisor (Energy) - UK Wide,WSP in the UK,"England, United Kingdom",Hybrid,"About the job
 We are WSP - Join us and make your career future ready!
 
 In today’s world it’s important to work for a company that has clear purpose, giving back to communities and supporting what is truly important in the world.
@@ -1272,8 +1272,8 @@ Apply now and be the future of WSP!
 
 Here at WSP we positively encourage applications from suitably qualified and eligible candidates regardless of sex, race, disability, age, sexual orientation, gender reassignment, religion or belief, marital status, pregnancy or maternity/paternity. As a Disability Confident leader, we will interview all disabled applicants who meet the essential criteria, please let us know if you require any workplace adjustments in support of your application.
 
-Please note WSP reserves the right to close the vacancy before the advertised closing date."
-Flexible Energy Business Developer,Aurora Energy Research,"Oxfordshire, England, United Kingdom",Hybrid,1 week ago,Full-time · Associate,"About the job
+Please note WSP reserves the right to close the vacancy before the advertised closing date.",0,0,1,[]
+Flexible Energy Business Developer,Aurora Energy Research,"Oxfordshire, England, United Kingdom",Hybrid,"About the job
 Aurora is looking for a Flexible Energy Business Developer to join our Oxford office.
 Internal title - Flexible Energy Business Development
 
@@ -1332,8 +1332,8 @@ Previous professional exposure to energy economics, power markets and power netw
 
 The successful candidate would start as soon as possible. We will review applications as they are received. Salary will be competitive with experience.
 
-To apply, please submit your CV, a brief cover letter, your salary expectations and state your earliest possible start date to the Apply Now button above."
-Analyst LCA Consultant,Ricardo plc,"England, United Kingdom",Hybrid,3 weeks ago,Full-time · Entry level,"About the job
+To apply, please submit your CV, a brief cover letter, your salary expectations and state your earliest possible start date to the Apply Now button above.",0,0,1,[]
+Analyst LCA Consultant,Ricardo plc,"England, United Kingdom",Hybrid,"About the job
 Role: Graduate/Analyst LCA Consultant
 Location: Flexible but preferred Harwell, Manchester, London, Bristol, Glasgow
 Salary range: £21,000 - £31,000
@@ -1385,8 +1385,8 @@ We are an Equal Opportunity Employer, we believe in each person's potential, and
 Benefits
 Our core benefits include 25 days' annual leave, plus 8 flexible bank holidays, a competitive company pension scheme, life assurance and professional subscriptions reimbursement. We also offer a wide range of flexible benefits to suit your lifestyle.
 
-Once you have submitted your application a member of our Recruitment Team will be in touch. Please be aware that the timing can vary dependent on the volume of applications that we receive for each role and in some cases, we may start to review applications prior to the closing date."
-Environment & Sustainability Advisor,Balfour Beatty plc,"Peterborough, England, United Kingdom",Hybrid,1 week ago,Full-time · Mid-Senior level,"About the job
+Once you have submitted your application a member of our Recruitment Team will be in touch. Please be aware that the timing can vary dependent on the volume of applications that we receive for each role and in some cases, we may start to review applications prior to the closing date.",0,0,1,[]
+Environment & Sustainability Advisor,Balfour Beatty plc,"Peterborough, England, United Kingdom",Hybrid,"About the job
 About the role
 
 Balfour Beatty has an exciting opportunity for an Environmental and Sustainability Advisor to join our Central Rail Systems Alliance, based at our Peterborough or Doncaster depot. This is a flexible role, which will include working from the site office, travelling to various sites within the region and some remote working. ***a company car will be provided***
@@ -1431,8 +1431,8 @@ Balfour Beatty Rail Limited is an international leader in rail infrastructure en
 Diversity & Inclusion: At Balfour Beatty we are committed to creating a diverse workforce and an inclusive culture where everyone can be themselves and reach their full potential, not only because this is the right thing to do, but because it makes us a better business. To ensure we deliver on this commitment, we have a UK Diversity and Inclusion Action Plan which sets out the wide range of targeted, proactive, measurable steps we are taking to make this a reality. You can read our UK Diversity and Inclusion Action Plan in full at www.balfourbeatty.com/value_everyone
 To help and support us with our desired commitment to create an inclusive culture we are members of WISE, enei, Business Disability Forum and Women into Construction. In 2020, we signed the Audeliss and Involve Open Letter to demonstrate our commitment to taking key long term and sustainable actions on Black Inclusion. Balfour Beatty is also a Gold Award holder in the Ministry of Defence 'Employer Recognition Scheme' and actively encourage applications from Armed Forces personnel, veterans and reservists.
 As a Disability Confident Employer, we are committed to working with people who have disabilities and long-term health conditions to remove barriers for them in obtaining employment. We are also committed to offering applicants with a disability an interview if they meet the minimum requirements for the role.
-Further information on Disability Confident can be found at: https://disabilityconfident.campaign.gov.uk/"
-"Strategy& Consultant – Energy, Utilities, Resources - Manager",PwC UK,"Edinburgh, Scotland, United Kingdom",Hybrid,4 days ago,Full-time · Mid-Senior level,"About the job
+Further information on Disability Confident can be found at: https://disabilityconfident.campaign.gov.uk/",0,0,0,[]
+"Strategy& Consultant – Energy, Utilities, Resources - Manager",PwC UK,"Edinburgh, Scotland, United Kingdom",Hybrid,"About the job
 A career in PwC Strategy&’s EUR team will provide you with the opportunity to participate in an exciting and rapidly changing energy landscape, develop industry-leading sector, technical and management skills, rapidly shape and advance your career and be part of a diverse, energetic, friendly community.
 
 About The Role
@@ -1490,8 +1490,8 @@ Application support
 
 If you’re a person with a disability, if you’re neurodivergent, or if you have a condition that you believe may affect your performance during our selection process, we’ll be happy to make reasonable adjustments to our processes for you. Learn more.
 
-Consulting"
-Energy Trading/ETRM Analyst (Technical and Functional) - SA,PwC UK,"Birmingham, England, United Kingdom",Hybrid,1 week ago,Full-time · Associate,"About the job
+Consulting",0,0,0,[]
+Energy Trading/ETRM Analyst (Technical and Functional) - SA,PwC UK,"Birmingham, England, United Kingdom",Hybrid,"About the job
 A career in our Treasury and Commodities practice, within Risk Assurance Compliance and Analytics services, will provide you with the opportunity to assist clients in developing analytics and technology solutions that help them detect, monitor, and predict risk. Using advanced technology, we’re able to focus on establishing the right controls, processes and structures for our clients to ensure that decisions are based on accurate information and assure that information provided to third parties is accurate, complete, and can be trusted. Our team helps organisations assess, design, and implement improvements to their core treasury activities. We focus on optimising the day to day processes of treasury and cash transformation, commodity risk management and technology, currency risk management, accounting and regulation, cash management, and controls.
 
 Our Team
@@ -1566,8 +1566,8 @@ Application support
 
 If you’re a person with a disability, if you’re neurodivergent, or if you have a condition that you believe may affect your performance during our selection process, we’ll be happy to make reasonable adjustments to our processes for you. Learn more.
 
-Risk"
-Graduate Sales Executive - Clean Energy Sector,Smart Grid Forums,"London Area, United Kingdom",Hybrid,16 hours ago,"£25,000/yr · Full-time","About the job
+Risk",0,0,0,[]
+Graduate Sales Executive - Clean Energy Sector,Smart Grid Forums,"London Area, United Kingdom",Hybrid,"About the job
 Position: Graduate Sales Executive – Clean Energy
 Location: Charing Cross, London
 Start: Immediate
@@ -1599,8 +1599,8 @@ Clear and concise written and oral communication skills
 Meticulous organisation and prioritisation skills
 Collaborative team work and stakeholder engagement style
 Commercially driven with excellent deadline management and target/goal orientation
-Comfortable using CRM and other productivity tools"
-"Senior Associate, Energy & Equity",WBCSD – World Business Council for Sustainable Development,"London Area, United Kingdom",Hybrid,2 days ago,Full-time · Associate,"About the job
+Comfortable using CRM and other productivity tools",0,0,1,[25000]
+"Senior Associate, Energy & Equity",WBCSD – World Business Council for Sustainable Development,"London Area, United Kingdom",Hybrid,"About the job
 Deadline for application: 13 February 2023
 
 WBCSD is the premier global, CEO-led community of over 200 of the world’s leading sustainable businesses working collectively to accelerate the system transformations needed for a net zero, nature positive, and more equitable future.
@@ -1672,8 +1672,8 @@ Dynamic working atmosphere.
 Open culture encouraging interaction and sharing of ideas and opinions.
 Sustainable commuting incentives.
 
-Please also note that WBCSD will only respond to candidates selected for the interview process."
-Senior Energy Decarbonisation/District Heating Consultant,Arcadis,"Cardiff, Wales, United Kingdom",Hybrid,2 weeks ago,Full-time · Mid-Senior level,"About the job
+Please also note that WBCSD will only respond to candidates selected for the interview process.",0,0,1,[]
+Senior Energy Decarbonisation/District Heating Consultant,Arcadis,"Cardiff, Wales, United Kingdom",Hybrid,"About the job
 At Arcadis we focus on attracting, retaining and developing people who share our passion and commitment to improve quality of life. In return we offer you the opportunity to transform your world and the world around you, that could be through client work, upskilling yourself, championing equality and inclusion or getting involved in charity work, to name just a few. Our people value different perspectives, they care about the sustainability of our planet and dare to shape the future.
 
 One of our core values is ‘people first’, and supported by our Lovinklaan foundation, we invest in you for the long term, to ensure you reach your full potential. You’ll have the opportunity to own your career and work on industry-defining projects, finding solutions to real challenges that make a difference to people’s lives. You’re encouraged to have a growth mindset and are given the space to develop personally and professionally, building a flexible career that works for you.
@@ -1743,8 +1743,8 @@ Our Commitment to Equality, Diversity, Inclusion & Belonging:
 
 We want you to be able to bring your best self to work every day which is why we take equality and inclusion seriously and hold ourselves to account for our actions. Our ambition is to be an employer of choice and provide a great place to work for all our people. We believe that by working together diverse people with different experiences develop the most innovative ideas. Equality, diversity and inclusion is at the heart of how we improve quality of life and we work closely with our people across six ED&I Workstreams: Age, Disability, Faith, Gender, LGBT+ and Race. A diverse and skilled workforce is essential to our success.
 
-Transform Your World"
-Management Consultant - Energy & Utilities - Equipment & Asset Management Advisory,Capgemini Invent,"London, England, United Kingdom",Hybrid,5 days ago,Full-time · Mid-Senior level,"About the job
+Transform Your World",0,0,0,[]
+Management Consultant - Energy & Utilities - Equipment & Asset Management Advisory,Capgemini Invent,"London, England, United Kingdom",Hybrid,"About the job
 At Capgemini Invent, we bring to life what’s next for our clients.
 By combining strategy, technology, data science, and creative design expertise with an inventive mindset, we partner with our clients to innovate and transform their business, helping them navigate today, while plotting a course for the future.
 
@@ -1818,8 +1818,8 @@ Whilst you will have London, Manchester or Glasgow as an office base location, y
 We offer a remuneration package which includes flexible benefits options for you to choose to suit your own personal circumstances and a variable element dependent grade and on company and personal performance.
 
 In order to commence a role with Capgemini UK plc you will be required to provide documentary proof prior to joining the Company that you are entitled to live and work in the UK.
-More information is at available at: https://www.capgemini.com/gb-en/service/invent/"
-Sustainability Advisor,Acre,"Oxford, England, United Kingdom",Hybrid,1 week ago,"£35,000/yr - £40,000/yr · Full-time · Mid-Senior level","About the job
+More information is at available at: https://www.capgemini.com/gb-en/service/invent/",0,0,0,[]
+Sustainability Advisor,Acre,"Oxford, England, United Kingdom",Hybrid,"About the job
 Are you a motivated sustainability professional looking to be an integral part of an organisation whose purpose is to help businesses across the globe reduce their environmental impacts?
 
 Acre is partnering with Manufacture 2030 (M2030), a fast-growing purpose-led business, aiming to help their customers significantly reduce environmental impacts. M2030 is a market-leading tech business that works with the world's biggest brands - including Honda, Toyota, GSK, Asda, Sainsbury's, Kingfisher, and many more.
@@ -1841,8 +1841,8 @@ Industry experience within the automotive, chemicals, pharmaceuticals, food & dr
 Additional languages would also be beneficial
 
 This role will offer flexible working, with Manufacture 2030's head office based in Oxford.
-This is a unique opportunity to help shape the best practices for carbon reduction across a multitude of sectors. If you are excited about the opportunity to work with a growing business that is working with thousands of leading businesses within the global supply chain on their decarbonisation journey, look no further. Apply here or contact greg.walker@acre.com with any questions."
-Quantitative Carbon Analyst - Graduate,Gresham Hunt,"London, England, United Kingdom",Hybrid,3 days ago,Full-time · Entry level,"About the job
+This is a unique opportunity to help shape the best practices for carbon reduction across a multitude of sectors. If you are excited about the opportunity to work with a growing business that is working with thousands of leading businesses within the global supply chain on their decarbonisation journey, look no further. Apply here or contact greg.walker@acre.com with any questions.",0,0,0,"[35000, 40000]"
+Quantitative Carbon Analyst - Graduate,Gresham Hunt,"London, England, United Kingdom",Hybrid,"About the job
 Gresham Hunt are recruiting on behalf of a leading Global Energy Supplier based in London.
 
 They are looking to hire a Carbon Analyst, who will keep track of changes in regulations related to carbon and convert them into quantitative assumptions.
@@ -1869,8 +1869,8 @@ Strong communication skills, including the ability to break down technical conce
 
 For more information, please submit your CV below.
 
-Alternatively to hear about all of my current roles, please contact me on lewis.clarke@greshamhunt.com."
-"Senior Analyst, Distributed Clean Energy Analytics",Edison Energy,"London, England, United Kingdom",Hybrid,3 days ago,Full-time · Mid-Senior level,"About the job
+Alternatively to hear about all of my current roles, please contact me on lewis.clarke@greshamhunt.com.",0,0,1,[]
+"Senior Analyst, Distributed Clean Energy Analytics",Edison Energy,"London, England, United Kingdom",Hybrid,"About the job
 Position Overview
 
 The Analyst or Senior Analyst , Distributed Clean Energy Analytics is responsible for powering our ability to develop strategies and implement solutions for clients to pursue distributed energy resources (DERs) and distributed generation (DG), such as solar, storage, fuel cells, and community solar based on the client’s financial and sustainability goals. To enable our growing distributed energy advisory practice, the Manager will outline and develop process efficiencies for our broader team. This includes, but isn’t limited to, best-in class financial modeling practices and tariff rate analysis support throughout multiple states, ISOs/RTOs, and utilities in North America, as well as process optimization as it pertains to databases that include incentives and policy.
@@ -1910,8 +1910,8 @@ Ability to balance competing demands and priorities due to the nature of the rol
 
 Work Environment
 
-Regular professional, office business setting"
-Energy Bureau Lead,BAE Systems,"Portsmouth, England, United Kingdom",Hybrid,1 week ago,Full-time · Mid-Senior level,"About the job
+Regular professional, office business setting",0,1,1,[]
+Energy Bureau Lead,BAE Systems,"Portsmouth, England, United Kingdom",Hybrid,"About the job
 Job title: Energy Bureau Lead
 
 Location: Portsmouth, we offer a range of hybrid and flexible working arrangements – please speak to your recruiter about the options for this particular role.
@@ -1966,8 +1966,8 @@ GB-ENG-HAM-Portsmouth
 
 Closing Date
 
-02/Feb/23, 2:59:00 AM"
-Energy Market Modeller,Cornwall Insight,"England, United Kingdom",Remote,3 days ago,Full-time · Associate,"About the job
+02/Feb/23, 2:59:00 AM",0,0,0,[]
+Energy Market Modeller,Cornwall Insight,"England, United Kingdom",Remote,"About the job
 Cornwall Insight is a leader in research, analysis, consulting, and training in the energy markets. We are seeking an Energy Market Modeller to join our Global Modelling team.
 
 As an Energy Market Modeller in the UK & Ireland team within Modelling, you will provide be responsible for supporting a wide range of modelling activities conducted across the business focusing on the wholesale and retail energy markets related to electricity and natural gas in the UK and Ireland. You will assist in the delivery of our forecast updates and associated market insight products through which we aim to enable our customers to succeed in the net zero transition. You will also be called upon to scope and deliver rigorous and complex bespoke modelling work for specific clients and projects.
@@ -2023,8 +2023,8 @@ Parental leave pay
 Cycle-to-work scheme
 Monthly employee value awards
 
-Cornwall Insight is a great place to continue your career, and we are dedicated to helping you grow and develop. You will enjoy interesting and challenging projects, working with the very best talent in our industry. We offer a flexible and agile way of working with great benefits."
-Energy Policy Opportunities,Energy Systems Catapult,"Birmingham, England, United Kingdom",Hybrid,4 days ago,"£32,000/yr - £60,000/yr · Full-time · Mid-Senior level","About the job
+Cornwall Insight is a great place to continue your career, and we are dedicated to helping you grow and develop. You will enjoy interesting and challenging projects, working with the very best talent in our industry. We offer a flexible and agile way of working with great benefits.",0,0,1,[]
+Energy Policy Opportunities,Energy Systems Catapult,"Birmingham, England, United Kingdom",Hybrid,"About the job
 Transitioning to a low-carbon energy system to meet the 2050 net zero target is one of the most complex and important challenges society has ever faced and the introduction of innovative services and products will play a crucial part in that transition.
 
 The Energy Systems Catapult core focus is twofold, firstly to help a broad range of innovative companies bring products and services to market and secondly to understand what needs to happen to ensure that the future energy system within the UK is secure, clean, and affordable.
@@ -2047,8 +2047,8 @@ It will be great if you already have leadership/line management experience, as t
 In terms of the early to mid-career opportunities, we expect you will be already able to demonstrate proven and relevant experience in the energy sector, or perhaps another regulated industry. This will be complemented by strong quantitative analytical capabilities and report writing and presentation skills that allow you to understand, interpret, and effectively communicate policy and regulatory outputs and their wider implications. You will be working with a wide range of stakeholders, mainly on collaborative projects so you will also be capable of quickly developing effective working relationships.
 
 Next Step
-So, if you would like to make a real difference, love a challenge, excited by the opportunity to do really impactful policy and regulatory work & finally like the idea of working with a diverse group of people who are passionate about the decarbonisation challenge, you best apply."
-Energy Sales Consultant,Hurren & Hope Specialist Recruitment Solutions,"London, England, United Kingdom",Hybrid,4 days ago,Full-time · Mid-Senior level,"About the job
+So, if you would like to make a real difference, love a challenge, excited by the opportunity to do really impactful policy and regulatory work & finally like the idea of working with a diverse group of people who are passionate about the decarbonisation challenge, you best apply.",0,0,0,"[32000, 60000]"
+Energy Sales Consultant,Hurren & Hope Specialist Recruitment Solutions,"London, England, United Kingdom",Hybrid,"About the job
 Energy Sales Consultant
 London (Hybrid)
 
@@ -2078,8 +2078,8 @@ If this sounds like the ideal next step for you, apply within or contact Jake on
 💻 JakeC@HurrenAndHope.com
 📞 020 3833 0334
 
-Naturally, our conversations will be confidential."
-Capital Allowances Consultant,Leyton,"London, England, United Kingdom",Hybrid,6 days ago,Full-time · Associate,"About the job
+Naturally, our conversations will be confidential.",0,0,1,[]
+Capital Allowances Consultant,Leyton,"London, England, United Kingdom",Hybrid,"About the job
 About the role:
 As a consultant you will be working in our specialist capital allowances business line. This role would present a fantastic career development opportunity for you as an experienced capital allowances specialist in a rapidly growing innovative business.
 Our capital allowances business line comprises of qualified specialists with diverse experience and multidisciplinary technical and financial advisory skills. We leverage on our expertise to maximise cash-saving benefits for businesses that incur capital expenditure.
@@ -2121,9 +2121,9 @@ Enhanced Maternity policy
 Annual charity days
 Leyton is committed to becoming an inclusive employer and proactive in improving diversity and equality across the Leyton Group without discrimination or harassment on the basis of race, colour, creed, religion, national origin, alienage or citizenship status, age, sex, sexual orientation, gender identity or expression, marital or domestic/civil partnership status, disability, veteran status, genetic information, or any other basis protected by law.
 Thank you for reviewing this vacancy. Should you apply for this role, your personal data will be processed in accordance with our privacy notice. See the link below.
-https://leyton.com/uk/data-privacy-notice-for-job-applicants/"
-"Energy Lead, Aon Climate",Aon,"London, England, United Kingdom",Hybrid,1 week ago,Full-time · Associate,About the job
-Carbon and Climate Change Consultant - Commodities and Energy Trading Industry,Baringa,"London Area, United Kingdom",Hybrid,2 days ago,Full-time · Mid-Senior level,"About the job
+https://leyton.com/uk/data-privacy-notice-for-job-applicants/",0,0,1,[]
+"Energy Lead, Aon Climate",Aon,"London, England, United Kingdom",Hybrid,About the job,0,0,0,[]
+Carbon and Climate Change Consultant - Commodities and Energy Trading Industry,Baringa,"London Area, United Kingdom",Hybrid,"About the job
 Carbon and Climate Change Consultant - Commodities and Energy Trading Industry
 
 Overview
@@ -2198,8 +2198,8 @@ Diversity & Inclusion
 
 All applications will receive consideration for employment without regard to race, ethnicity, religion, gender, gender identity or expression, sexual orientation, nationality, disability, age, faith or social background. We are proud to be an Equal Opportunity Employer.
 
-We would like to actively encourage applications from those who identify with less represented and minority groups. We do not filter applications by university background and encourage those who have taken alternative educational and career paths to apply."
-Engagement Analyst – Information Requests,Ofgem,"London, England, United Kingdom",Hybrid,1 week ago,"£25,750/yr - £32,320/yr · Full-time · Associate","About the job
+We would like to actively encourage applications from those who identify with less represented and minority groups. We do not filter applications by university background and encourage those who have taken alternative educational and career paths to apply.",0,0,1,[]
+Engagement Analyst – Information Requests,Ofgem,"London, England, United Kingdom",Hybrid,"About the job
 Location: This role can be based in London or Glasgow
 
 Ofgem works on behalf of energy consumers to ensure that every household and business in the UK can rely on a safe, environmentally sustainable energy supply. We are playing a vital part in accelerating the transition to Net Zero and a carbon neutral energy system - a goal that everyone wants to achieve. Whatever your role, you’ll be playing your part in creating new energy solutions that are great for customers, and great for the environment.
@@ -2208,8 +2208,8 @@ Our flexible working career opportunities are incredibly varied, so we are commi
 
 In this role you will work across our renewable energy schemes when responding to information requests from a variety of sources. You will liaise with colleagues across the organisation to support you in formulating thorough, accurate and timely responses. This could include presenting information to senior colleagues or lawyers so that they can advise and contribute on complex or sensitive matters. Interpreting and applying relevant legislation and regulations such as EIR / SAR / FOI / Privacy Policy / Legal advice will be an important part of your role.
 
-It’s important that you already have excellent analytical skills and a keen eye for detail, ideally supported by knowledge of EIR, SAR and FOI legislation. You should be well-organised so that you can adapt to a shifting workload within a team environment while taking personal initiative for moving things forward. Good communication skills will help to ensure that the responses you prepare are easy to interpret, accessible and use clear language."
-Renewables Commercial Support Analyst,RWE,"Swindon, England, United Kingdom",Hybrid,2 weeks ago,Full-time · Entry level,"About the job
+It’s important that you already have excellent analytical skills and a keen eye for detail, ideally supported by knowledge of EIR, SAR and FOI legislation. You should be well-organised so that you can adapt to a shifting workload within a team environment while taking personal initiative for moving things forward. Good communication skills will help to ensure that the responses you prepare are easy to interpret, accessible and use clear language.",0,0,1,"[25750, 32320]"
+Renewables Commercial Support Analyst,RWE,"Swindon, England, United Kingdom",Hybrid,"About the job
 Location(s): Swindon, Wiltshire, GB, SN5 6PB
 
 RWE Supply & Trading GmbH, Swindon
@@ -2244,8 +2244,8 @@ We look forward to meeting you!
 We value diversity and therefore welcome all applications, irrespective of gender, disability, nationality, ethnic and social background, religion and beliefs, age or sexual orientation and identity.
 Of course, you can find us on LinkedIn, Twitter and Xing, too.
 
-RWE represents change, innovation and sustainability. As one of the world’s leading generators of electricity from renewable energy sources, we aim to be carbon-neutral by 2040 and to enable a sustainable life for people around the world. To achieve this, we are looking for dynamic and motivated people to join us in creating a sustainable and secure energy future."
-"Senior Impact Officer, Energy",Climate Group,"London, England, United Kingdom",Hybrid,3 days ago,"£32,950/yr - £36,260/yr · Full-time · Associate","About the job
+RWE represents change, innovation and sustainability. As one of the world’s leading generators of electricity from renewable energy sources, we aim to be carbon-neutral by 2040 and to enable a sustainable life for people around the world. To achieve this, we are looking for dynamic and motivated people to join us in creating a sustainable and secure energy future.",0,0,0,[]
+"Senior Impact Officer, Energy",Climate Group,"London, England, United Kingdom",Hybrid,"About the job
 Summary
 
 The Senior Impact Officer (Energy) will play an important role in supporting the delivery of RE100’s national and regional programmes as well as providing expertise on renewable energy (energy geeks encouraged!) across Climate Group. This role, based in RE100’s Impact team, provides an exciting opportunity to make a difference in a world-renowned corporate renewable energy initiative that brings together hundreds of large and ambitious businesses committed to 100% renewable electricity.
@@ -2344,8 +2344,8 @@ If you need any further information, require the job advert in an accessible for
 
 The closing date for applications is 12 February 2023. We’ll be holding interviews on a rolling basis, therefore welcome and encourage early applications.
 
-The requisite eligibility criteria, or work visa to work in the UK are a requirement for this position and no relocation and/or sponsorship costs will be borne by Climate Group."
-Consultant- Net Zero (Associate Level),ERM,"Oxford, England, United Kingdom",Hybrid,1 week ago,Full-time · Associate,"About the job
+The requisite eligibility criteria, or work visa to work in the UK are a requirement for this position and no relocation and/or sponsorship costs will be borne by Climate Group.",0,0,1,"[32950, 36260]"
+Consultant- Net Zero (Associate Level),ERM,"Oxford, England, United Kingdom",Hybrid,"About the job
 Our climate change team has been established for more than 20 years and is widely recognised for delivering high quality and technically challenging projects across the full range of climate-related services. Our work includes supporting clients in the development and implementation of greenhouse gas (GHG) inventories and reduction targets, energy and carbon regulatory compliance, and preparing advice on climate-related strategy and policy, including issues within both energy transition and physical risk. We have a diverse client base which includes corporates across most sectors, as well as financial and government institutions.
 
 The role
@@ -2414,8 +2414,8 @@ At ERM, we put our people first. We ensure that we create and maintain a support
 
 With a robust career framework in place, there are also great opportunities to advance your career at ERM.
 
-We also offer our employees a diverse and inclusive culture in which differences are embraced and celebrated – through, for example dedicated Employee Resource Groups. Please feel free to contact us if you wish to find out more about our diversity and inclusion culture, or if you would need special arrangements for your interview should your application progress to that stage."
-Senior Energy Consultant,EcoAct,"England, United Kingdom",Hybrid,5 days ago,Full-time · Mid-Senior level,"About the job
+We also offer our employees a diverse and inclusive culture in which differences are embraced and celebrated – through, for example dedicated Employee Resource Groups. Please feel free to contact us if you wish to find out more about our diversity and inclusion culture, or if you would need special arrangements for your interview should your application progress to that stage.",0,0,1,[]
+Senior Energy Consultant,EcoAct,"England, United Kingdom",Hybrid,"About the job
 About us
 EcoAct are an international consultancy and project developer, helping businesses and organisations to meet the demands of the Paris Agreement. As a trusted advisor and partner to our clients, we simplify the challenges associated with sustainability, remove complexity, empower individuals and teams, and deploy bespoke solutions integrated into entire value chains.
 We exist to embed climate action as a global driver of commercial performance; delivering economic, social and environmental value.
@@ -2468,8 +2468,8 @@ EcoAct offers a great opportunity for your personal development and career advan
 Company Culture
 Company culture is of great importance to us and is something that every member of EcoAct helps to create. Our colleague led initiative, which represents the three pillars of colleagues, community and environment, runs numerous activities including, “Veggie lunches”, volunteering and fund-raising opportunities, wellbeing activities, plastic reduction and energy saving initiatives, social events and sports teams.
 
-Employee well-being is a key priority for us and we recognise the importance of work-life balance and how EcoAct can be supportive of individual needs. If working from home, working part-time or flexible start and finish times will help with this, please let us know as part of your application."
-Energy Manager,Balfour Beatty plc,"Wide Open, England, United Kingdom",Hybrid,2 weeks ago,Full-time · Mid-Senior level,"About the job
+Employee well-being is a key priority for us and we recognise the importance of work-life balance and how EcoAct can be supportive of individual needs. If working from home, working part-time or flexible start and finish times will help with this, please let us know as part of your application.",0,0,1,[]
+Energy Manager,Balfour Beatty plc,"Wide Open, England, United Kingdom",Hybrid,"About the job
 About The Role
 
 Balfour Beatty has an exciting opportunity for an Energy Manager to join our talented and friendly Asset & Technology Solutions team. This role will see you supporting the implementation of Balfour Beattys Building New Future's strategy with a specific focus on reducing energy consumption and carbon emissions. You will also provide advice and policy support to strategic business units on energy and sustainability.
@@ -2520,8 +2520,8 @@ As a Disability Confident Employer, we are committed to working with people who 
 
 Further information on Disability Confident can be found at: https://disabilityconfident.campaign.gov.uk/
 
-Apply Now"
-Analyst Consultant - Heat Decarbonisation Auditor,Ricardo plc,"England, United Kingdom",Hybrid,1 week ago,Full-time · Entry level,"About the job
+Apply Now",0,0,1,[]
+Analyst Consultant - Heat Decarbonisation Auditor,Ricardo plc,"England, United Kingdom",Hybrid,"About the job
 Role: Analyst Consultant - Heat Decarbonisation Auditor
 Location: UK Flexible
 Salary range: £25,000 - £31,000
@@ -2593,8 +2593,8 @@ Benefits
 
 Our core benefits include 25 days' annual leave, plus 8 flexible bank holidays, a competitive company pension scheme, life assurance and professional subscriptions reimbursement. We also offer a wide range of flexible benefits to suit your lifestyle.
 
-Once you have submitted your application a member of our Recruitment Team will be in touch. Please be aware that the timing can vary dependent on the volume of applications that we receive for each role and in some cases, we may start to review applications prior to the closing date."
-Research Analyst – European Hydrogen Markets,Aurora Energy Research,"Oxfordshire, England, United Kingdom",Hybrid,2 weeks ago,Full-time · Entry level,"About the job
+Once you have submitted your application a member of our Recruitment Team will be in touch. Please be aware that the timing can vary dependent on the volume of applications that we receive for each role and in some cases, we may start to review applications prior to the closing date.",0,0,1,[]
+Research Analyst – European Hydrogen Markets,Aurora Energy Research,"Oxfordshire, England, United Kingdom",Hybrid,"About the job
 Aurora is looking for a Research Analyst – European Hydrogen Markets to join our Oxford or Berlin office.
 
 About the position
@@ -2648,8 +2648,8 @@ Competence in other languages
 
 The successful candidate would start as soon as possible. We will review applications as they are received. Salary will be competitive with experience.
 
-To apply, please submit your CV, a brief cover letter, your salary expectations and state your earliest possible start date to the Apply Now button above."
-Management Consultant - Energy & Utilities - Sector Transformation (Business Analyst/Change),Capgemini Invent,"London, England, United Kingdom",Hybrid,5 days ago,Full-time · Mid-Senior level,"About the job
+To apply, please submit your CV, a brief cover letter, your salary expectations and state your earliest possible start date to the Apply Now button above.",0,0,1,[]
+Management Consultant - Energy & Utilities - Sector Transformation (Business Analyst/Change),Capgemini Invent,"London, England, United Kingdom",Hybrid,"About the job
 At Capgemini Invent, we bring to life what’s next for our clients.
 By combining strategy, technology, data science, and creative design expertise with an inventive mindset, we partner with our clients to innovate and transform their business, helping them navigate today, while plotting a course for the future.
 
@@ -2718,8 +2718,8 @@ Whilst you will have London, Manchester or Glasgow as an office base location, y
 We offer a remuneration package which includes flexible benefits options for you to choose to suit your own personal circumstances and a variable element dependent grade and on company and personal performance.
 
 In order to commence a role with Capgemini UK plc you will be required to provide documentary proof prior to joining the Company that you are entitled to live and work in the UK.
-More information is at available at: https://www.capgemini.com/gb-en/service/invent/"
-Data Lead - Global Sustainability,JLL,"London, England, United Kingdom",Hybrid,2 days ago,Full-time · Mid-Senior level,"About the job
+More information is at available at: https://www.capgemini.com/gb-en/service/invent/",0,0,0,[]
+Data Lead - Global Sustainability,JLL,"London, England, United Kingdom",Hybrid,"About the job
 The role
 
 JLL’s Global Sustainability team is responsible for developing and delivering the company’s sustainability strategy. A core part of the programme is JLL’s commitment to taking a leadership position on addressing climate change. To that end, we have adopted an ambitious science-based net-zero target for carbon reduction across our enterprise.
@@ -2751,8 +2751,8 @@ Comfortable with communicating with colleagues around the world.
 High level of organization including effective workload prioritization.
 Enthusiastic, self-starter who works well in a changing, flexible environment.
 
-Strong commitment to, and basic understanding of, the principles and values of sustainability, corporate social responsibility and/or corporate citizenship"
-"Principal / Associate Consultant - Energy, Strategy & Planning",Ramboll,"London, England, United Kingdom",Remote,1 month ago,Full-time · Mid-Senior level,"About the job
+Strong commitment to, and basic understanding of, the principles and values of sustainability, corporate social responsibility and/or corporate citizenship",0,0,0,[]
+"Principal / Associate Consultant - Energy, Strategy & Planning",Ramboll,"London, England, United Kingdom",Remote,"About the job
 Job Description
 
 Inviting bright minds
@@ -2817,8 +2817,8 @@ We invite applications from candidates from all backgrounds, regardless of age, 
 
 As a Disability Confident Committed employer, Ramboll ensures opportunities are accessible to candidates with disabilities. Please reach out to our recruitment team to discuss any adjustments that you might require during the application process.
 
-We also know how important it is to achieve the right balance of where, when and how much you work. When you join Ramboll, you’ll have the freedom to work your hours flexibly and our positive approach to hybrid working will help you to discover the split between home and office that works for you and your role."
-Engagement Analyst – Information Requests,Ofgem,"Glasgow, Scotland, United Kingdom",Hybrid,1 week ago,"£23,450/yr - £29,381/yr · Full-time · Associate","About the job
+We also know how important it is to achieve the right balance of where, when and how much you work. When you join Ramboll, you’ll have the freedom to work your hours flexibly and our positive approach to hybrid working will help you to discover the split between home and office that works for you and your role.",0,0,1,[]
+Engagement Analyst – Information Requests,Ofgem,"Glasgow, Scotland, United Kingdom",Hybrid,"About the job
 Location: This role can be based in London or Glasgow
 
 Ofgem works on behalf of energy consumers to ensure that every household and business in the UK can rely on a safe, environmentally sustainable energy supply. We are playing a vital part in accelerating the transition to Net Zero and a carbon neutral energy system - a goal that everyone wants to achieve. Whatever your role, you’ll be playing your part in creating new energy solutions that are great for customers, and great for the environment.
@@ -2827,8 +2827,8 @@ Our flexible working career opportunities are incredibly varied, so we are commi
 
 In this role you will work across our renewable energy schemes when responding to information requests from a variety of sources. You will liaise with colleagues across the organisation to support you in formulating thorough, accurate and timely responses. This could include presenting information to senior colleagues or lawyers so that they can advise and contribute on complex or sensitive matters. Interpreting and applying relevant legislation and regulations such as EIR / SAR / FOI / Privacy Policy / Legal advice will be an important part of your role.
 
-It’s important that you already have excellent analytical skills and a keen eye for detail, ideally supported by knowledge of EIR, SAR and FOI legislation. You should be well-organised so that you can adapt to a shifting workload within a team environment while taking personal initiative for moving things forward. Good communication skills will help to ensure that the responses you prepare are easy to interpret, accessible and use clear language."
-Sustainability Consultant,Enlist | Recruitment,"Bristol, England, United Kingdom",Hybrid,6 days ago,"£50,000/yr · Full-time · Mid-Senior level","About the job
+It’s important that you already have excellent analytical skills and a keen eye for detail, ideally supported by knowledge of EIR, SAR and FOI legislation. You should be well-organised so that you can adapt to a shifting workload within a team environment while taking personal initiative for moving things forward. Good communication skills will help to ensure that the responses you prepare are easy to interpret, accessible and use clear language.",0,0,1,"[23450, 29381]"
+Sustainability Consultant,Enlist | Recruitment,"Bristol, England, United Kingdom",Hybrid,"About the job
 Description
 
 Sustainability Consultant
@@ -2862,8 +2862,8 @@ You will receive a basic salary of up to £50,000, hybrid working (2days a week 
 
 What do next:
 
-Apply now and get in touch with Rosie."
-Energy Insight Lead - ESO,National Grid ESO,"Warwick, England, United Kingdom",Hybrid,2 days ago,Full-time · Mid-Senior level,"About the job
+Apply now and get in touch with Rosie.",0,0,0,[50000]
+Energy Insight Lead - ESO,National Grid ESO,"Warwick, England, United Kingdom",Hybrid,"About the job
 Help shape the future of energy.
 As an Energy Insight Lead, you'll have the opportunity to:
 
@@ -2904,8 +2904,8 @@ This role closes on 10 February 2023 at 23:59, however we encourage candidates t
 
 At National Grid ESO, we work towards the highest standards in everything we do, including how we support, value and develop our people. Our aim is to encourage and support employees to thrive and be the best they can be. We celebrate the difference people can bring into our organisation, and welcome and encourage applicants with diverse experiences and backgrounds, and offer flexible and tailored support, at home and in the office.
 
-We're committed to building a workforce that represents the communities we serve, and a working environment in which each individual feels valued, respected, fairly treated, and able to reach their full potential."
-Senior CDM Consultant - Energy,Arcadis,"Birmingham, England, United Kingdom",Hybrid,1 week ago,Full-time · Mid-Senior level,"About the job
+We're committed to building a workforce that represents the communities we serve, and a working environment in which each individual feels valued, respected, fairly treated, and able to reach their full potential.",0,0,0,[]
+Senior CDM Consultant - Energy,Arcadis,"Birmingham, England, United Kingdom",Hybrid,"About the job
 At Arcadis we focus on attracting, retaining and developing people who share our passion and commitment to improve quality of life. In return we offer you the opportunity to transform your world and the world around you, that could be through client work, upskilling yourself, championing equality and inclusion or getting involved in charity work, to name just a few. Our people value different perspectives, they care about the sustainability of our planet and dare to shape the future.
 
 One of our core values is ‘people first’, and supported by our Lovinklaan foundation, we invest in you for the long term, to ensure you reach your full potential. You’ll have the opportunity to own your career and work on industry-defining projects, finding solutions to real challenges that make a difference to people’s lives. You’re encouraged to have a growth mindset and are given the space to develop personally and professionally, building a flexible career that works for you.
@@ -2956,8 +2956,8 @@ We want you to be able to bring your best self to work every day which is why we
 
 Transform Your World
 
-#SESC #CDM"
-Environment & Sustainability Advisor,National Grid,United Kingdom,Remote,3 days ago,Full-time · Mid-Senior level,"About the job
+#SESC #CDM",0,0,0,[]
+Environment & Sustainability Advisor,National Grid,United Kingdom,Remote,"About the job
 Help Unlock Net Zero
 
 Would you like to collaborate with a team of forward-thinking experts, committed to Net Zero?
@@ -3002,8 +3002,8 @@ This role closes on 12th February 2023 however we encourage candidates to submit
 
 At National Grid, we work towards the highest standards in everything we do, including how we support, value and develop our people. Our aim is to encourage and support employees to thrive and be the best they can be. We celebrate the difference people can bring into our organisation, and welcome and encourage applicants with diverse experiences and backgrounds, and offer flexible and tailored support, at home and in the office.
 
-Our goal is to drive, develop and operate our business in a way that results in a more inclusive culture. All employment is decided on the basis of qualifications, the innovation from diverse teams & perspectives and business need. We are committed to building a workforce so we can represent the communities we serve and have a working environment in which each individual feels valued, respected, fairly treated, and able to reach their full potential."
-10 x Energy Trading Back & Middle Office Analysts – Big 4 Consultancy,Bramwith Consulting,"Birmingham, England, United Kingdom",Hybrid,2 weeks ago,"£50,000/yr - £100,000/yr · Full-time · Associate","About the job
+Our goal is to drive, develop and operate our business in a way that results in a more inclusive culture. All employment is decided on the basis of qualifications, the innovation from diverse teams & perspectives and business need. We are committed to building a workforce so we can represent the communities we serve and have a working environment in which each individual feels valued, respected, fairly treated, and able to reach their full potential.",0,0,0,[]
+10 x Energy Trading Back & Middle Office Analysts – Big 4 Consultancy,Bramwith Consulting,"Birmingham, England, United Kingdom",Hybrid,"About the job
 10 x Energy Trading Back & Middle Office Analysts – Big 4 Consultancy
 
 Global Big 4 management consultancy seeks 10 x Energy / Commodity Trading Back & Middle Office Analysts looking for a career move into management consulting joining their UK Commodity Trading Advisory Practice. No previous consulting experience needed.
@@ -3029,8 +3029,8 @@ These roles will be varied, so you’ll get the opportunity to broaden your comm
 
 As such, these are fantastic career opportunities for bright Energy/Commodity Trading Analysts, looking to develop and widen their business knowledge working for a fantastic global brand with an award winning culture.
 
-For more information, please e-mail an up-to-date copy of your CV to Ben at jobsBR@bramwithconsulting.co.uk"
-Senior Solar PV Energy Yield Specialist,Mott MacDonald,"Brighton, England, United Kingdom",Hybrid,2 weeks ago,Full-time · Entry level,"About the job
+For more information, please e-mail an up-to-date copy of your CV to Ben at jobsBR@bramwithconsulting.co.uk",0,0,0,"[50000, 100000]"
+Senior Solar PV Energy Yield Specialist,Mott MacDonald,"Brighton, England, United Kingdom",Hybrid,"About the job
 Contract Type
 
 Permanent
@@ -3130,8 +3130,8 @@ Europe and Central Asia
 
 Website Sector
 
-Energy"
-"Energy Transition Third Party Manager, UK Land",World Fuel Services,"Callow Hill, England, United Kingdom",Remote,1 week ago,Full-time · Mid-Senior level,"About the job
+Energy",0,0,1,[]
+"Energy Transition Third Party Manager, UK Land",World Fuel Services,"Callow Hill, England, United Kingdom",Remote,"About the job
 At World Fuel Services, our employees are the key to our global success. We are industry leaders due to the innumerable talents of our approximately 5000 strong professional team. Our people thrive in an entrepreneurial and culturally-diverse environment, where innovative thinking, collaboration and efficient execution are highly valued. Our high-performance culture is what allows us to drive sustained growth. Stronger together, we promote an environment where individuals can thrive.
 
 When you click 'Apply', you will need to click on 'Create Account'. By creating an account, you will be able to view your applications and their statuses. Your password must contain 1 upper case letter, 1 number, and 1 special character.
@@ -3183,8 +3183,8 @@ Nice To Have
 Experience in product offers working behind the meter
 Salesforce experience
 Geographic Scope & Travel Requirements
-UK based, flexible location, travel as required for internal and external meetings"
-Environmental Sustainability Consultant,British Safety Council,United Kingdom,Remote,1 week ago,Contract · Associate,"About the job
+UK based, flexible location, travel as required for internal and external meetings",0,0,0,[]
+Environmental Sustainability Consultant,British Safety Council,United Kingdom,Remote,"About the job
 Role - Associate Consultant in Environmental Sustainability
 Salary - Day rate depending on experience
 Location - Remote working with travel
@@ -3208,8 +3208,8 @@ Excellent report writing/written word skills.
 We will be shortlisting candidates for interviews upon application; therefore, this role may close early should we find a suitable candidate.
 
 Guaranteed interview scheme
-We are committed to the employment and career development of disabled people. As part of this commitment, we operate a guaranteed interview scheme for disabled applicants who meet the minimum criteria for the role they have applied for."
-Sustainability Consultant (Sustainable Buildings) – London Or Manchester,WSP in the UK,"Manchester, England, United Kingdom",Hybrid,1 week ago,Full-time · Mid-Senior level,"About the job
+We are committed to the employment and career development of disabled people. As part of this commitment, we operate a guaranteed interview scheme for disabled applicants who meet the minimum criteria for the role they have applied for.",0,0,1,[]
+Sustainability Consultant (Sustainable Buildings) – London Or Manchester,WSP in the UK,"Manchester, England, United Kingdom",Hybrid,"About the job
 We are WSP - Join us and make your career future ready!
 
 In today’s world it’s important to work for a company that has clear purpose, giving back to communities and supporting what is truly important in the world.
@@ -3280,8 +3280,8 @@ Apply now and be the future of WSP
 
 Here at WSP we positively encourage applications from suitably qualified and eligible candidates regardless of sex, race, disability, age, sexual orientation, gender reassignment, religion or belief, marital status, pregnancy or maternity/paternity. As a Disability Confident leader, we will interview all disabled applicants who meet the essential criteria, please let us know if you require any workplace adjustments in support of your application.
 
-Please note WSP reserves the right to close the vacancy before the advertised closing date."
-Solar Energy Analyst,Cubico Sustainable Investments,"London, England, United Kingdom",Hybrid,1 week ago,Full-time · Associate,"About the job
+Please note WSP reserves the right to close the vacancy before the advertised closing date.",0,0,0,[]
+Solar Energy Analyst,Cubico Sustainable Investments,"London, England, United Kingdom",Hybrid,"About the job
 Cubico is looking for a Solar Energy Analyst to join the company’s Performance Team, a subset of Cubico's wider Technical Team. The role will be varied, with the successful candidate contributing towards a growing in-house capability for operational monitoring, identification and implementation of performance optimisation opportunities across Cubico’s renewable energy assets.
 
 Cubico is currently striving to get better accuracy and consistency from our operational KPIs, improve asset manager understanding of our assets through better monitoring, while also working to identify and realise performance improvements on our 1.5GW operational solar portfolio through analysis of our SCADA data.
@@ -3337,8 +3337,8 @@ Cubico holds a portfolio of around 5 GW, with assets across the wind, solar PV, 
 
 Cubico is driven by five core values: diversity, respect, integrity, value creation and excellence, which make up our sixth value, DRIVE. These values encourage employees to take pride and satisfaction in their work, strive to achieve their goals and go the extra mile to attain outstanding results. Cubico’s employees are central to its success and, as a result, the company looks for people who believe in its purpose, will take full account of its impact and are motivated to make a positive contribution to the world.
 
-As part of Cubico culture and values, we embrace diversity and equal opportunity. We are committed to building talented teams that represents a variety of backgrounds, perspectives, and skills. The more inclusive we are, the better our work will be. We particularly encourage applications from under-represented minority groups."
-Senior Consultant - Hydrogen Energy (Mid-Senior Level),ERM,"Edinburgh, Scotland, United Kingdom",Hybrid,1 week ago,Full-time · Mid-Senior level,"About the job
+As part of Cubico culture and values, we embrace diversity and equal opportunity. We are committed to building talented teams that represents a variety of backgrounds, perspectives, and skills. The more inclusive we are, the better our work will be. We particularly encourage applications from under-represented minority groups.",0,0,1,[]
+Senior Consultant - Hydrogen Energy (Mid-Senior Level),ERM,"Edinburgh, Scotland, United Kingdom",Hybrid,"About the job
 ERM is seeking to hire a Senior or Principal Consultant to work in the hydrogen energy sector as part of our Sustainable Energy Solutions (SES) team.
 
 SES integrates the acquisitions of Element Energy and E4tech into ERM, providing first-class subject matter experts to assist our clients in their drive to a low carbon future. SES now has over 170 experts in sustainable energy, working on topics such as low carbon buildings, transport, hydrogen, fuels, chemicals, energy networks, smart systems, energy policy, sustainability assessment and innovation projects.
@@ -3387,8 +3387,8 @@ We aim to build an inclusive culture by identifying, acquiring, developing and r
 
 If you share our values and are interested in this role, please apply by sending your CV and a short cover letter explaining why you think you are suited to the role.
 
-ERM does not accept recruiting agency resumes and is not responsible for any fees related to unsolicited resumes."
-Business Development Officer - Renewable Energy and Energy Storage Consultancy,Decerna,"London, England, United Kingdom",Remote,1 week ago,Full-time,"About the job
+ERM does not accept recruiting agency resumes and is not responsible for any fees related to unsolicited resumes.",0,0,1,[]
+Business Development Officer - Renewable Energy and Energy Storage Consultancy,Decerna,"London, England, United Kingdom",Remote,"About the job
 Are you passionate and experienced in renewable energy, energy storage, energy efficiency, or decarbonisation projects?
 
 Is climate change and reducing carbon emissions important to you?
@@ -3443,8 +3443,8 @@ Interested? Get in touch!
 
 Closing date is 11.59pm 28th January 2023.
 
-Interviews to be held during February 2023"
-Data Management Expert – Energy Modelling,Baringa,"London Area, United Kingdom",Hybrid,2 weeks ago,Full-time · Mid-Senior level,"About the job
+Interviews to be held during February 2023",0,0,1,[]
+Data Management Expert – Energy Modelling,Baringa,"London Area, United Kingdom",Hybrid,"About the job
 Data Management Expert - Energy Modelling
 
 Overview
@@ -3499,8 +3499,8 @@ Diversity & Inclusion
 
 All applications will receive consideration for employment without regard to race, ethnicity, religion, gender, gender identity or expression, sexual orientation, nationality, disability, age, faith or social background. We are proud to be an Equal Opportunity Employer.
 
-We would like to actively encourage applications from those who identify with less represented and minority groups. We do not filter applications by university background and encourage those who have taken alternative educational and career paths to apply."
-Functional Manager Energy Systems,Bentley Motors,"Crewe, England, United Kingdom",Hybrid,3 hours ago,Full-time · Mid-Senior level,"About the job
+We would like to actively encourage applications from those who identify with less represented and minority groups. We do not filter applications by university background and encourage those who have taken alternative educational and career paths to apply.",0,0,0,[]
+Functional Manager Energy Systems,Bentley Motors,"Crewe, England, United Kingdom",Hybrid,"About the job
 Job description:
 
 About the role
@@ -3546,8 +3546,8 @@ If you’re seeking a challenging and rewarding career as part of an extraordina
 
 
 
-Closing date is 13th February or until 3 candidates have been shortlisted for assessment."
-Sustainability Advisor,Linklaters,"London, England, United Kingdom",Hybrid,1 week ago,Full-time · Mid-Senior level,"About the job
+Closing date is 13th February or until 3 candidates have been shortlisted for assessment.",0,0,0,[]
+Sustainability Advisor,Linklaters,"London, England, United Kingdom",Hybrid,"About the job
 About Linklaters
 
 Linklaters is a people business. Being best in class in the eyes of our clients means that our people must be exceptional. We look not only for brilliant minds, but for people who will thrive in our environment: people who love working collaboratively and demonstrate the innovative, efficient, agile, entrepreneurial and responsible mind-set we aim to bring to every interaction.
@@ -3626,8 +3626,8 @@ This list of duties and responsibilities above is not exhaustive. It is intended
 
 Application Policy
 
-Applications are only accepted online via the portal. Any queries or profiles must be directed to the lateral recruitment team on: lateralrecruitment@linklaters.com and not the practice or partners."
-Sustainability Solution Advisor Associate,Altruistiq,"London, England, United Kingdom",Remote,3 days ago,Full-time · Mid-Senior level,"About the job
+Applications are only accepted online via the portal. Any queries or profiles must be directed to the lateral recruitment team on: lateralrecruitment@linklaters.com and not the practice or partners.",0,0,1,[]
+Sustainability Solution Advisor Associate,Altruistiq,"London, England, United Kingdom",Remote,"About the job
 Altruistiq's software solution delivers sustainability intelligence and real corporate impact in carbon reduction and beyond for large businesses that see more than 'just' reporting as the goal. Altruistiq empowers businesses with the technology to automate sustainability data measurement, management and exchange - with unparalleled accuracy and ease. We believe that sustainability is the corporate world's biggest data challenge. Our mission is to enable businesses to do more of what is measurably good, driven by data and impact intelligence. Read about our latest investment below:
 
 https://www.eu-startups.com/2022/07/london-based-altruistiq-raises-e17-6-million-for-its-climate-tech-software/
@@ -3675,8 +3675,8 @@ Team offsites, bi-annual events to spend time together as a team
 Work in a diverse, feedback-driven organisation, decentralized decision-making allowing everyone to weigh in, offering lots of freedom, impact and responsibility.
 
 At Altruistiq we believe a diverse team is a better team.
-We welcome you to apply, and if there are accommodations that can be made to make the application and interview process more accessible for you please just get in touch. We are committed to equal employment opportunity regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace."
-Energy & Sustainability Manager,PRS,"England, United Kingdom",Hybrid,1 hour ago,"£65,000/yr - £90,000/yr · Full-time · Mid-Senior level","About the job
+We welcome you to apply, and if there are accommodations that can be made to make the application and interview process more accessible for you please just get in touch. We are committed to equal employment opportunity regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace.",0,0,0,[]
+Energy & Sustainability Manager,PRS,"England, United Kingdom",Hybrid,"About the job
 Undertake energy and technical decarbonisation surveys across clients’ premises.
 Maintain a thorough understanding of corporate energy strategy, legal, statutory, Net Zero, SBTi and technical issues which affect the client's premises and operations.
 Assist clients and site teams to measure, monitor and report on energy consumption and carbon emissions.
@@ -3699,8 +3699,8 @@ Project management experience.
 Understand the principles behind Electrification, HVAC, Refrigeration, Lighting, Building Fabric and System Design / integration.
 Extensive working knowledge of BMS and control theory.
 Capable of preparing fully costed energy efficiency proposals and reports
-Ability to carry out full energy surveys and feasibility studies of energy technologies"
-Whole Life Carbon Consultant,Soben,United Kingdom,Remote,2 days ago,Full-time · Mid-Senior level,"About the job
+Ability to carry out full energy surveys and feasibility studies of energy technologies",0,0,0,"[65000, 90000]"
+Whole Life Carbon Consultant,Soben,United Kingdom,Remote,"About the job
 Why Soben?
 
 We’re an award-winning construction consultancy with huge ambitions to put ourselves firmly on the map. We’ve come a long way since operations commenced in 2011 but now is the time to step on the gas and realise our true potential.
@@ -3745,4 +3745,4 @@ Experience of OneClick LCA, eTool, or EC3
 A demonstrable passion and enthusiasm for environmental sustainability
 Experience with undertaking LCA studies for BREEAM, Greater London Authority (GLA) or other LCA scoping mechanisms
 LEED, BREEAM and/or other assessment methodology knowledge/experience
-Experience of undertaking Part L or TM54 calculations is beneficial"
+Experience of undertaking Part L or TM54 calculations is beneficial",0,0,1,[]
