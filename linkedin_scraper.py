@@ -149,9 +149,3 @@ df = pd.DataFrame(list(zip(job_titles,company_names,
 
 # Storing the data to csv file
 df.to_csv('job_offers.csv', index=False)
-
-# Output job descriptions to txt file
-# with open('job_descriptions.txt', 'w',encoding="utf-8") as f:
-#     for line in job_desc:
-#         f.write(line)
-#         f.write('\n')
